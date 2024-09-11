@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub page!  👋
 
 <!--
 **RyanValenzuela-Porta/RyanValenzuela-Porta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+   
+I'm a Computer Science student at The University of Warwick and I code stuff. Working towards becoming a software engineer!    
+Some of my interests are:   
+ - Full-Stack Development
+ - Game Development
+ - Financial Services
+ - Data and Analytics   
+   
+Dabbling in a range of things... just enjoying the learning and coding process! See my pinned repositories for examples of my work.
+
+## 🔭 I’m currently working on ...   
+ - Learning React.JS and LLM fine tuning by building a stock news article sentiment visualiser   
+ - Grinding out leetcode for fun   
+ - Maintaining my tuition website and growing my business
+ - Updating repositories for some old projects   
