@@ -29,4 +29,10 @@ Dabbling in a range of things... just enjoying the learning and coding process! 
  - Learning React.JS and LLM fine tuning by building a stock news article sentiment visualiser   
  - Grinding out leetcode for fun   
  - Maintaining my tuition website and growing my business
- - Updating repositories for some old projects   
+ - Updating repositories for some old projects
+
+## 💬 Projects for the future ...
+... because there's always more to learn and build!   
+ - Spotify playlist filter
+ - Warwick FilSoc Website (tech officer soon?!)
+ - Learning React Native
